@@ -1,0 +1,32 @@
+{
+  "name": "webpack-ts-seed",
+  "version": "1.0.0",
+  "description": "webpack + typescript seed project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermocorrea/webpack-ts-seed.git"
+  },
+  "keywords": [
+    "webpack",
+    "typescript",
+    "seed"
+  ],
+  "author": "Luis Correa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillermocorrea/webpack-ts-seed/issues"
+  },
+  "homepage": "https://github.com/guillermocorrea/webpack-ts-seed#readme",
+  "devDependencies": {
+    "ts-loader": "^0.8.1",
+    "typescript": "^1.8.9",
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
